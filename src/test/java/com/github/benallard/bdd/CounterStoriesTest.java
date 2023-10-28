@@ -1,6 +1,5 @@
 package com.github.benallard.bdd;
 
-import java.util.Arrays;
 import java.util.List;
 
 import org.jbehave.core.configuration.Configuration;
